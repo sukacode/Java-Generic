@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f29f032-a9fd-4082-a891-1b394b2dc9cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sukacode/generic/application/ArrayHelperApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sukacode/generic/application/PairApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sukacode/generic/util/ArrayHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sukacode/generic/application/InvariantApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -37,15 +34,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sukacode/generic/application/GenericClassApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="189">
+              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
               <folding>
                 <element signature="e#197#205#0" expanded="true" />
                 <element signature="e#264#273#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sukacode/generic/application/InvariantApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -123,13 +129,14 @@
         <option value="$PROJECT_DIR$/src/sukacode/generic/util/ArrayHelper.java" />
         <option value="$PROJECT_DIR$/src/sukacode/generic/application/GenericClassApp.java" />
         <option value="$PROJECT_DIR$/src/sukacode/generic/application/ArrayHelperApp.java" />
+        <option value="$PROJECT_DIR$/src/sukacode/generic/application/InvariantApp.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="246" />
-    <option name="y" value="102" />
-    <option name="width" value="865" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="795" />
     <option name="height" value="745" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -172,7 +179,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1676360765993" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1676367087339" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -242,8 +249,8 @@
       <window_info id="UI Designer" />
       <window_info id="DB Browser" sideWeight="0.49919486" weight="0.32980332" />
       <window_info id="Capture Tool" />
-      <window_info id="Favorites" sideWeight="0.5059952" side_tool="true" visible="true" weight="0.24962178" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4940048" visible="true" weight="0.24962178" />
+      <window_info id="Favorites" sideWeight="0.50735295" side_tool="true" weight="0.092517" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49264705" visible="true" weight="0.12481089" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="DB Execution Console" />
       <window_info anchor="bottom" id="Messages" />
@@ -330,12 +337,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sukacode/generic/application/GenericClassApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="189">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
           <folding>
             <element signature="e#197#205#0" expanded="true" />
             <element signature="e#264#273#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sukacode/generic/application/InvariantApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
